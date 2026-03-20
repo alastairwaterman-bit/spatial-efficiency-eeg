@@ -5,7 +5,7 @@
 [![Tests](https://github.com/alastairwaterman-bit/spatial-efficiency-eeg/actions/workflows/test.yml/badge.svg)](https://github.com/alastairwaterman-bit/spatial-efficiency-eeg/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19068027.svg)](https://doi.org/10.5281/zenodo.19068027)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19139967.svg)](https://doi.org/10.5281/zenodo.19139967)
 
 ## Overview
 
@@ -22,7 +22,7 @@ where **Ψ** is the five-band Effective Power Vector (amplitude weighted
 by spatial pattern stability Sγ) and **A** is the total amplitude vector.
 
 This work is part of the **NSE/RDRT research series** (Waterman 2026),
-preprints available at Zenodo: [DOI 10.5281/zenodo.19068027](https://doi.org/10.5281/zenodo.19068027)
+preprints available at Zenodo: [DOI 10.5281/zenodo.19139967](https://doi.org/10.5281/zenodo.19139967)
 
 ### Key properties
 
@@ -196,7 +196,7 @@ frameworks:
   representational structure; ‖Δ‖ = energy expended without organised output
 
 For full theoretical discussion, see the preprint series:
-[Waterman 2026, Zenodo DOI 10.5281/zenodo.19068027](https://doi.org/10.5281/zenodo.19068027)
+[Waterman 2026, Zenodo DOI 10.5281/zenodo.19139967](https://doi.org/10.5281/zenodo.19139967)
 
 ---
 
@@ -209,7 +209,7 @@ If you use this code, please cite the preprint series:
                Spatial Efficiency Metrics (η, ||Δ||)},
   author    = {Waterman, Alastair},
   year      = {2026},
-  doi       = {10.5281/zenodo.19068027},
+  doi       = {10.5281/zenodo.19139967},
   url       = {https://github.com/[username]/spatial-efficiency-eeg}
 }
 
@@ -218,7 +218,7 @@ If you use this code, please cite the preprint series:
                NSE/RDRT Preprint Series},
   author    = {Waterman, Alastair},
   year      = {2026},
-  doi       = {10.5281/zenodo.19068027},
+  doi       = {10.5281/zenodo.19139967},
   note      = {Preprint series, Zenodo}
 }
 ```
