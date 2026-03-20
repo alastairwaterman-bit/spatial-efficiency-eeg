@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Results and plots
+*.png
+*.pkl
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Colab
+*.ipynb
+
+# OS
+.DS_Store
