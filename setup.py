@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="spatial-efficiency-eeg",
     version="1.0.0",
-    author="Alastair Waterman",
+    author="[Author]",
     description="Spatial efficiency metrics for EEG consciousness research",
     packages=find_packages(),
     python_requires=">=3.8",
