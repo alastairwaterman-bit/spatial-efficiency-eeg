@@ -21,8 +21,8 @@ organised spatial patterns relative to a stable reference:
 where **Ψ** is the five-band Effective Power Vector (amplitude weighted
 by spatial pattern stability Sγ) and **A** is the total amplitude vector.
 
-This work is part of the **NSE/RDRT research series** (Waterman 2026),
-preprints available at Zenodo: [DOI 10.5281/zenodo.19139967](https://doi.org/10.5281/zenodo.19139967)
+This work is part of the **research series** ([Author] 2026),
+preprints available at Zenodo
 
 ### Key properties
 
@@ -196,7 +196,7 @@ frameworks:
   representational structure; ‖Δ‖ = energy expended without organised output
 
 For full theoretical discussion, see the preprint series:
-[Waterman 2026, Zenodo DOI 10.5281/zenodo.19139967](https://doi.org/10.5281/zenodo.19139967)
+[Author] [DOI]
 
 ---
 
@@ -204,21 +204,21 @@ For full theoretical discussion, see the preprint series:
 
 If you use this code, please cite the preprint series:
 ```bibtex
-@software{waterman2026code,
+@software{[Author]2026code,
   title     = {spatial-efficiency-eeg: EEG Analysis Pipeline for
                Spatial Efficiency Metrics (η, ||Δ||)},
-  author    = {Waterman, Alastair},
+  author    = {[Author]},
   year      = {2026},
-  doi       = {10.5281/zenodo.19139967},
+  doi       = {[DOI]},
   url       = {https://github.com/[username]/spatial-efficiency-eeg}
 }
 
-@misc{waterman2026preprints,
+@misc{[Author]2026preprints,
   title     = {Effective Neural Power and the Phenomenal Vector —
-               NSE/RDRT Preprint Series},
-  author    = {Waterman, Alastair},
+               Preprint Series},
+  author    = {[Author]},
   year      = {2026},
-  doi       = {10.5281/zenodo.19139967},
+  doi       = {[DOI]},
   note      = {Preprint series, Zenodo}
 }
 ```
@@ -235,7 +235,5 @@ Free to use, modify, and distribute with attribution.
 
 ## Contact
 
-Alastair Waterman
-Independent Researcher, United Kingdom
-alastairwaterman@gmail.com
-ORCID: 0009-0000-2867-0207
+[Author]
+
