@@ -18,7 +18,7 @@ build_all_references
 
 Preprint series
 ---------------
-Waterman A (2026). NSE/RDRT series.
+[Author] (2026). Reaserch series.
 Zenodo DOI: 10.5281/zenodo.19068027
 """
 
@@ -63,7 +63,7 @@ from .core import (
 from .pipeline import SpatialEfficiencyPipeline
 
 __version__ = "1.0.0"
-__author__  = "Alastair Waterman"
+__author__  = "[Author]"
 __license__ = "MIT"
 __doi__     = "10.5281/zenodo.19068027"
 
