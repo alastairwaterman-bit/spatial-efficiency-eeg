@@ -13,7 +13,7 @@ Metrics:
     - ||Ψ|| (organised power norm): Euclidean norm of Effective Power Vector
     - Ψ_c (frequency centroid): weighted mean frequency of organised power
 
-Author: Alastair Waterman
+Author: [Author]
 License: MIT
 """
 
