@@ -19,7 +19,7 @@ build_all_references
 Preprint series
 ---------------
 [Author] (2026). Reaserch series.
-Zenodo DOI: 10.5281/zenodo.19068027
+Zenodo 
 """
 
 from .core import (
@@ -65,7 +65,7 @@ from .pipeline import SpatialEfficiencyPipeline
 __version__ = "1.0.0"
 __author__  = "[Author]"
 __license__ = "MIT"
-__doi__     = "10.5281/zenodo.19068027"
+__doi__     = "[doi]"
 
 __all__ = [
     "SpatialEfficiencyPipeline",
